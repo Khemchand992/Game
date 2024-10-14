@@ -32,7 +32,7 @@ This project is a modern and interactive **Tic-Tac-Toe** game built using **Reac
 
 ## Screenshots
 
-![React Tic-Tac-Toe](path-to-your-image.png)
+![React Tic-Tac-Toe](image.png)
 
 ## How to Play
 
